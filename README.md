@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJ1cWRvd2xlYzhtMngybHQxMHM5dWpkcTh5bDhyczM1MXJnOXFkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
 ###
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Edo from Indonesia<br><br>- 🔭 I’m working as electronics and software engineer<br>- 📚 I'm currently learning Automation<br>- ⚡ In my free time I workout and traveling</p>
+<p align="left">I'm Edo from Indonesia<br><br>- 🔭 I’m working as electronics and software engineer<br>- 📚 I'm currently learning automation<br>- ⚡ In my free time I workout and traveling</p>
 
 ###
 
@@ -79,7 +79,20 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=edondroid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=edondroid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="220" alt="stats graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=edondroid&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edondroid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="220" alt="languages graph"  />
+</div>
+
 
 ###
