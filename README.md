@@ -40,7 +40,11 @@ Building industrial monitoring, automation, and IoT solutions by connecting mach
 
 ## ⚡ Technical Skills
 
-### Automation & Control
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🏭 Automation
 
 * Schneider PLC
 * Siemens PLC
@@ -48,32 +52,67 @@ Building industrial monitoring, automation, and IoT solutions by connecting mach
 * Weintek HMI
 * Haiwell HMI
 
-### Communication Protocols
+</td>
+
+<td valign="top" width="33%">
+
+### 📡 Communication
 
 * Modbus RTU
 * Modbus TCP/IP
 * MQTT
 * REST API
 
-### Software Development
+</td>
 
-* C#
-* .NET Framework
-* Blazor
-* HTML, CSS, JavaScript
-* MySQL
+<td valign="top" width="33%">
 
-### Monitoring & Analytics
+### 🤖 IoT & Monitoring
 
 * Grafana
 * ThingsBoard
 * SmartICS
+* Machine Monitoring
+* Data Acquisition
 
-### Embedded & IoT
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 💻 Software Development
+
+* C#
+* .NET Framework
+* Blazor
+* WinForms
+
+</td>
+
+<td valign="top">
+
+### 🌐 Web & Database
+
+* HTML
+* CSS
+* JavaScript
+* MySQL
+
+</td>
+
+<td valign="top">
+
+### 🔌 Embedded Systems
 
 * Arduino
 * ESP32
-* C/C++
+* C
+* C++
+
+</td>
+</tr>
+</table>
 
 ---
 
