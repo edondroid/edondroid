@@ -42,7 +42,7 @@ Building industrial monitoring, automation, and IoT solutions by connecting mach
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top">
 
 ### 🏭 Automation
 
@@ -54,7 +54,7 @@ Building industrial monitoring, automation, and IoT solutions by connecting mach
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top">
 
 ### 📡 Communication
 
@@ -65,7 +65,7 @@ Building industrial monitoring, automation, and IoT solutions by connecting mach
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top">
 
 ### 🤖 IoT & Monitoring
 
