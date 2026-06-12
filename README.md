@@ -4,16 +4,16 @@
 
 # Hi there 👋 I'm Agung Alfredo
 
-### Electronics & Software Engineer | Automation Enthusiast | IoT Developer
+### Industrial Automation Engineer | IIoT Developer | Electronics & Software Engineer
 
-Passionate about building industrial automation systems, embedded solutions, IoT applications, and data-driven monitoring platforms.
+Building industrial monitoring, automation, and IoT solutions by connecting machines, PLCs, HMIs, and software platforms.
 
 <p>
   <a href="https://www.linkedin.com/in/agung-alfredo-64a71489/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/edondroid">
+  <a href="https://www.instagram.com/agung.alfredo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
@@ -30,23 +30,50 @@ Passionate about building industrial automation systems, embedded solutions, IoT
 
 ## 👨‍💻 About Me
 
-* 🔭 Working as an **Electronics & Software Engineer**
-* ⚙️ Developing industrial automation and monitoring systems
-* 🤖 Passionate about **IoT**, **Industry 4.0**, and **Embedded Systems**
-* 🌱 Currently learning **Advanced Automation**, **IIoT**, and **SCADA Integration**
-* 📊 Interested in Data Analytics, Machine Monitoring, and AI Integration
-* 💪 In my free time I enjoy working out and traveling
+* 🔭 Working as an Electronics & Software Engineer
+* 🏭 Experienced in Industrial Automation and Machine Monitoring
+* 🤖 Developing Industrial IoT (IIoT) and Industry 4.0 solutions
+* 📊 Building dashboards, analytics platforms, and data acquisition systems
+* 💪 Enjoy workout, traveling, and learning new technologies
 
 ---
 
-## 🚀 What I'm Working On
+## ⚡ Technical Skills
 
-* Industrial Machine Monitoring Systems
-* Production Dashboard & KPI Analytics
-* IoT-Based Automation Solutions
-* Embedded Control Systems
-* Real-Time Data Acquisition Platforms
-* Smart Manufacturing Applications
+### Automation & Control
+
+* Schneider PLC
+* Siemens PLC
+* Schneider Magelis HMI
+* Weintek HMI
+* Haiwell HMI
+
+### Communication Protocols
+
+* Modbus RTU
+* Modbus TCP/IP
+* MQTT
+* REST API
+
+### Software Development
+
+* C#
+* .NET Framework
+* Blazor
+* HTML, CSS, JavaScript
+* MySQL
+
+### Monitoring & Analytics
+
+* Grafana
+* ThingsBoard
+* SmartICS
+
+### Embedded & IoT
+
+* Arduino
+* ESP32
+* C/C++
 
 ---
 
@@ -54,86 +81,21 @@ Passionate about building industrial automation systems, embedded solutions, IoT
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="45" alt=".NET"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" alt="Grafana"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="Visual Studio"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
 
 </div>
-
----
-
-## 🏭 Featured Projects
-
-### Industrial Machine Monitoring System
-
-Real-time monitoring solution for manufacturing environments.
-
-**Tech Stack**
-
-* C#
-* .NET
-* MySQL
-* Grafana
-* Arduino
-* MQTT
-
-**Features**
-
-* Real-time machine monitoring
-* OEE tracking
-* Production analytics
-* Downtime monitoring
-* Alarm notifications
-
----
-
-### IoT Automation Controller
-
-Industrial automation controller designed for remote monitoring and control.
-
-**Tech Stack**
-
-* Arduino
-* C/C++
-* MQTT
-* REST API
-
-**Features**
-
-* Sensor integration
-* Data logging
-* Remote control
-* Real-time communication
-
----
-
-### Production Dashboard & Analytics
-
-Dashboard platform for visualizing manufacturing KPIs and operational data.
-
-**Tech Stack**
-
-* Grafana
-* MySQL
-* .NET
-* SQL
-
-**Features**
-
-* KPI dashboard
-* Historical analysis
-* Trend monitoring
-* Automated reporting
 
 ---
 
@@ -159,42 +121,10 @@ Dashboard platform for visualizing manufacturing KPIs and operational data.
 
 ---
 
-## 📊 Activity Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=edondroid&theme=github-compact"/>
+### Thanks for visiting 👋
 
-</div>
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build more industrial automation projects
-* 🤖 Create scalable IoT solutions
-* ☁️ Learn cloud-native industrial architectures
-* 📊 Improve analytics and visualization skills
-* 🧠 Explore AI for manufacturing systems
-* 🌍 Contribute more to open-source communities
-
----
-
-## 📫 Let's Connect
-
-Feel free to connect with me for:
-
-* Industrial Automation Projects
-* IoT Development
-* Embedded Systems
-* Software Engineering
-* Technology Discussions
-* Open Source Collaboration
-
-<div align="center">
-
-### Thanks for visiting my profile! 👋
-
-⭐ If you like my work, don't forget to star my repositories.
+Always open to collaboration on Industrial Automation, IIoT, and Software Development projects.
 
 </div>
