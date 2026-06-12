@@ -1,94 +1,200 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJ1cWRvd2xlYzhtMngybHQxMHM5dWpkcTh5bDhyczM1MXJnOXFkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
 
-###
+<img height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJ1cWRvd2xlYzhtMngybHQxMHM5dWpkcTh5bDhyczM1MXJnOXFkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/agung-alfredo-64a71489/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+# Hi there 👋 I'm Agung Alfredo
+
+### Electronics & Software Engineer | Automation Enthusiast | IoT Developer
+
+Passionate about building industrial automation systems, embedded solutions, IoT applications, and data-driven monitoring platforms.
+
+<p>
+  <a href="https://www.linkedin.com/in/agung-alfredo-64a71489/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/edondroid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+
+  <a href="https://instagram.com/edondroid">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/agung.alfredo.62" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+
+  <a href="https://www.facebook.com/agung.alfredo.62">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+</p>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=edondroid.edondroid" />
+
 </div>
 
-###
+---
+
+## 👨‍💻 About Me
+
+* 🔭 Working as an **Electronics & Software Engineer**
+* ⚙️ Developing industrial automation and monitoring systems
+* 🤖 Passionate about **IoT**, **Industry 4.0**, and **Embedded Systems**
+* 🌱 Currently learning **Advanced Automation**, **IIoT**, and **SCADA Integration**
+* 📊 Interested in Data Analytics, Machine Monitoring, and AI Integration
+* 💪 In my free time I enjoy working out and traveling
+
+---
+
+## 🚀 What I'm Working On
+
+* Industrial Machine Monitoring Systems
+* Production Dashboard & KPI Analytics
+* IoT-Based Automation Solutions
+* Embedded Control Systems
+* Real-Time Data Acquisition Platforms
+* Smart Manufacturing Applications
+
+---
+
+## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=edondroid.edondroid&"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="45" alt=".NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" alt="Grafana"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="Visual Studio"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🏭 Featured Projects
 
-###
+### Industrial Machine Monitoring System
 
-<h3 align="left">👩‍💻  About Me</h3>
+Real-time monitoring solution for manufacturing environments.
 
-###
+**Tech Stack**
 
-<p align="left">I'm Edo from Indonesia<br><br>- 🔭 I’m working as electronics and software engineer<br>- 📚 I'm currently learning automation<br>- ⚡ In my free time I workout and traveling</p>
+* C#
+* .NET
+* MySQL
+* Grafana
+* Arduino
+* MQTT
 
-###
+**Features**
 
-<h3 align="left">🛠 Language and tools</h3>
+* Real-time machine monitoring
+* OEE tracking
+* Production analytics
+* Downtime monitoring
+* Alarm notifications
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+### IoT Automation Controller
 
-###
+Industrial automation controller designed for remote monitoring and control.
 
-<h3 align="left">🔥   My Stats :</h3>
+**Tech Stack**
 
-###
+* Arduino
+* C/C++
+* MQTT
+* REST API
+
+**Features**
+
+* Sensor integration
+* Data logging
+* Remote control
+* Real-time communication
+
+---
+
+### Production Dashboard & Analytics
+
+Dashboard platform for visualizing manufacturing KPIs and operational data.
+
+**Tech Stack**
+
+* Grafana
+* MySQL
+* .NET
+* SQL
+
+**Features**
+
+* KPI dashboard
+* Historical analysis
+* Trend monitoring
+* Automated reporting
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edondroid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="220" alt="stats graph"  />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edondroid&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edondroid&layout=compact&langs_count=8&theme=github_dark"/>
+
 </div>
 
-###
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=edondroid&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
+
+<img src="https://streak-stats.demolab.com?user=edondroid&theme=github-dark-blue"/>
+
 </div>
 
-###
+---
+
+## 📊 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edondroid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="220" alt="languages graph"  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edondroid&theme=github-compact"/>
+
 </div>
 
+---
 
-###
+## 🎯 2026 Goals
+
+* 🚀 Build more industrial automation projects
+* 🤖 Create scalable IoT solutions
+* ☁️ Learn cloud-native industrial architectures
+* 📊 Improve analytics and visualization skills
+* 🧠 Explore AI for manufacturing systems
+* 🌍 Contribute more to open-source communities
+
+---
+
+## 📫 Let's Connect
+
+Feel free to connect with me for:
+
+* Industrial Automation Projects
+* IoT Development
+* Embedded Systems
+* Software Engineering
+* Technology Discussions
+* Open Source Collaboration
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+⭐ If you like my work, don't forget to star my repositories.
+
+</div>
