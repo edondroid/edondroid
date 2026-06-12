@@ -129,15 +129,15 @@ Building smart manufacturing solutions by integrating PLCs, HMIs, IoT devices, i
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="45" />
 <img src="https://cdn.simpleicons.org/blazor" height="45" alt="Blazor" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" />
-<img src="https://img.shields.io/badge/ThingsBoard-2A7DEC?style=for-the-badge" />
 <img src="https://cdn.simpleicons.org/nodered/8F0000" height="45" alt="Node-RED" />
-<img src="https://img.shields.io/badge/SmartICS-005BAC?style=for-the-badge" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
+<br><br>
+
+<img src="https://img.shields.io/badge/ThingsBoard-2A7DEC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SmartICS-005BAC?style=for-the-badge" />
 
 </div>
 
