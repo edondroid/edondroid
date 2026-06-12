@@ -4,9 +4,9 @@
 
 # Hi there 👋 I'm Agung Alfredo
 
-### Industrial Automation Engineer | IIoT Developer | Electronics & Software Engineer
+### Industrial Automation Engineer | IIoT Engineer | Software Developer
 
-Building industrial monitoring, automation, and IoT solutions by connecting machines, PLCs, HMIs, and software platforms.
+Building smart manufacturing solutions by integrating PLCs, HMIs, IoT devices, industrial protocols, and software platforms into actionable industrial insights.
 
 <p>
   <a href="https://www.linkedin.com/in/agung-alfredo-64a71489/">
@@ -30,12 +30,12 @@ Building industrial monitoring, automation, and IoT solutions by connecting mach
 
 ## 👨‍💻 About Me
 
-* 🔭 Working as an Electronics & Software Engineer
-* 🏭 Experienced in Industrial Automation and Machine Monitoring
-* 🤖 Developing Industrial IoT (IIoT) and Industry 4.0 solutions
-* 📊 Building dashboards, analytics platforms, and data acquisition systems
+* 🏭 Industrial Automation & Machine Monitoring Engineer
+* 🤖 Building IIoT and Industry 4.0 solutions
+* 📊 Developing dashboards, analytics, and data acquisition systems
+* 💻 Creating desktop applications with C# .NET and web applications with Blazor
 * 💪 Enjoy workout, traveling, and learning new technologies
-
+  
 ---
 
 ## ⚡ Technical Skills
@@ -68,7 +68,7 @@ Building industrial monitoring, automation, and IoT solutions by connecting mach
 
 <td valign="top" width="33%">
 
-### 🤖 IoT & Monitoring
+### 🤖 IoT, SCADA & Monitoring
 
 * Grafana
 * ThingsBoard
@@ -101,6 +101,8 @@ Building industrial monitoring, automation, and IoT solutions by connecting mach
 * CSS
 * JavaScript
 * MySQL
+* PostgreSQL
+* SQL Server
 
 </td>
 
@@ -123,23 +125,17 @@ Building industrial monitoring, automation, and IoT solutions by connecting mach
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="45" />
 <img src="https://cdn.simpleicons.org/blazor" height="45" alt="Blazor" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" />
 <img src="https://img.shields.io/badge/ThingsBoard-2A7DEC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SmartICS-005BAC?style=for-the-badge" />
 <img src="https://cdn.simpleicons.org/nodered/8F0000" height="45" alt="Node-RED" />
+<img src="https://img.shields.io/badge/SmartICS-005BAC?style=for-the-badge" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
 
