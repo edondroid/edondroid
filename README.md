@@ -134,8 +134,8 @@ Building industrial monitoring, automation, and IoT solutions by connecting mach
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" />
-<img src="https://img.shields.io/badge/ThingsBoard-2A7DEC?style=for-the-badge&logo=thingsboard&logoColor=white" />
-<img src="https://img.shields.io/badge/SmartICS-005BAC?style=for-the-badge" />
+<img src="https://thingsboard.io/images/logo-blue.svg" height="45" alt="ThingsBoard" />
+<img src="https://smartics.io/logo" height="45" alt="SmartICS" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
 
