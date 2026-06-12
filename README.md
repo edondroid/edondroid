@@ -40,80 +40,23 @@ Building industrial monitoring, automation, and IoT solutions by connecting mach
 
 ## ⚡ Technical Skills
 
-<table>
-<tr>
-<td valign="top">
+**Automation**
+Schneider PLC • Siemens PLC • Magelis HMI • Weintek HMI • Haiwell HMI
 
-### 🏭 Automation
+**Communication**
+Modbus RTU • Modbus TCP/IP • MQTT • REST API
 
-* Schneider PLC
-* Siemens PLC
-* Schneider Magelis HMI
-* Weintek HMI
-* Haiwell HMI
+**IoT & Monitoring**
+Grafana • ThingsBoard • SmartICS • Machine Monitoring • Data Acquisition
 
-</td>
+**Software Development**
+C# • .NET Framework • Blazor • WinForms
 
-<td valign="top">
+**Web & Database**
+HTML • CSS • JavaScript • MySQL
 
-### 📡 Communication
-
-* Modbus RTU
-* Modbus TCP/IP
-* MQTT
-* REST API
-
-</td>
-
-<td valign="top">
-
-### 🤖 IoT & Monitoring
-
-* Grafana
-* ThingsBoard
-* SmartICS
-* Machine Monitoring
-* Data Acquisition
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### 💻 Software Development
-
-* C#
-* .NET Framework
-* Blazor
-* WinForms
-
-</td>
-
-<td valign="top">
-
-### 🌐 Web & Database
-
-* HTML
-* CSS
-* JavaScript
-* MySQL
-
-</td>
-
-<td valign="top">
-
-### 🔌 Embedded Systems
-
-* Arduino
-* ESP32
-* C
-* C++
-
-</td>
-</tr>
-</table>
-
+**Embedded Systems**
+Arduino • ESP32 • C • C++
 ---
 
 ## 🛠️ Languages & Tools
