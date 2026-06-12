@@ -2,7 +2,7 @@
 
 <img height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJ1cWRvd2xlYzhtMngybHQxMHM5dWpkcTh5bDhyczM1MXJnOXFkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
-# Hi there 👋 I'm Agung Alfredo
+# Hi there 👋 I'm Edo
 
 ### Industrial Automation Engineer | IIoT Engineer | Software Developer
 
