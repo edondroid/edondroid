@@ -142,7 +142,6 @@ Building smart manufacturing solutions by integrating PLCs, HMIs, IoT devices, i
 <img src="https://cdn.simpleicons.org/nodered/8F0000" height="45" alt="Node-RED" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" />
 <img src="https://img.shields.io/badge/ThingsBoard-2A7DEC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SmartICS-005BAC?style=for-the-badge" />
 
 </div>
 
